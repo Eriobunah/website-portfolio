@@ -1,4 +1,4 @@
-# Professional Web Design Portfolio
+# Website Design Portfolio by Eri
 
 ## 📌 Portfolio Overview
 
